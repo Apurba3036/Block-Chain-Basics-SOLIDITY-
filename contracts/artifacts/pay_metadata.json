@@ -1,0 +1,73 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "check",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "payether",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "sendetheraccount",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/payable.sol": "pay"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/payable.sol": {
+			"keccak256": "0x6362e1a9d91ef7fb52af0a5df6b86ff97664cf3d5ae1117503db47e60ef09e94",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://50d35793181ab7f7b9648b3e39b2381d01cbe01ee0e3a7bd6774fc335152ab3a",
+				"dweb:/ipfs/QmTSeve7PBwDEb8xe5aAGKHehdtGJqbbqx4f3z8LT4jiZW"
+			]
+		}
+	},
+	"version": 1
+}

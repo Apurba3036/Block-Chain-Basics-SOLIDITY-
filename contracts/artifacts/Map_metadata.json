@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "empid",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/mapping-2.sol": "Map"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/mapping-2.sol": {
+			"keccak256": "0xc87004c5e32025da7cce3332680cfe74c01cf9169f291af02370fac9b4996ed4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6e5b0f65a8c8b7c6b5cfcf5f8c7f45e0bd46db2c20284e64ce5261d160aa2838",
+				"dweb:/ipfs/QmTNoyWAdGxF6HCqfBGNMEdVFsMPQmZ47nf47j6ycW8duF"
+			]
+		}
+	},
+	"version": 1
+}
