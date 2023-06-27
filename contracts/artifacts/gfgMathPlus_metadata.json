@@ -58,7 +58,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/cgpa.sol": "gfgMathPlus"
+			"contracts/Sum-of-two-int.sol": "gfgMathPlus"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -72,7 +72,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/cgpa.sol": {
+		"contracts/Sum-of-two-int.sol": {
 			"keccak256": "0xf21ad237a0278cd5905c5276d588b4cf376699171ae8ac4c9c0ac4e3fa19611a",
 			"license": "MIT",
 			"urls": [
