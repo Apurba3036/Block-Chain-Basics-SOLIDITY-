@@ -1,3 +1,8 @@
+BLOCK CHAIN BASICS (SOLIDITY)
+VERSION: 0.8.20
+IDE : REMIX
+
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
